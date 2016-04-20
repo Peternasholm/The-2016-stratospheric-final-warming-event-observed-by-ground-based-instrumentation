@@ -22,4 +22,5 @@ subsection_Analysis_and_re_analysis__.tex
 subsection_Wind_and_temperature_maps__.tex
 subsubsection_Polar_cap_temperature_anomalies__.tex
 section_Discussion_and_conclusive_remarks__.tex
+Contribution_to_further_understanding_of__.tex
 section_Acknowledgments__.tex

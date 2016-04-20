@@ -4,6 +4,7 @@ General_info_on_the_lack__.tex
 Tell_about_the_OHP_instrument__.tex
 The_2016_winter_in_perspective__.tex
 Coupling_to_the_mesosphere_a__.tex
+Connection_to_the_ionospheric_observations__.tex
 On_using_infrasonic_microbarom_detections__.tex
 secion_Introduction__.tex
 section_Instrument_network_and_technologies__.tex

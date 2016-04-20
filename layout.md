@@ -8,6 +8,7 @@ Coupling_to_the_mesosphere_a__.tex
 Connection_to_the_ionospheric_observations__.tex
 On_using_infrasonic_microbarom_detections__.tex
 El_Nino__.tex
+cite_Smets_2015__.tex
 secion_Introduction__.tex
 section_Instrument_network_and_technologies__.tex
 section_Recorded_data_subsection_Infrasound__.tex
